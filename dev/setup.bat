@@ -9,8 +9,7 @@ if "%id%"=="" (
 	GOTO PROJECT	
 )
 :PROJECT
-mkdir ..\script\"%id%"
+mkdir ..\scripts\"%id%"
 xcopy /E /y template ..\scripts\"%id%"\
-cd ..\script\"%id%"
 
 pause
