@@ -1,6 +1,6 @@
 @echo off
 :START
-set /p id="Enter name: "
+set /p id="Enter script name: "
 
 if "%id%"=="" (
 	echo "Invalid name.."
