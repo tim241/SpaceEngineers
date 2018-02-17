@@ -3,7 +3,7 @@
 set /p id="Enter script name: "
 
 if "%id%"=="" (
-	echo "Invalid name.."
+	echo Invalid name..
 	GOTO START
 ) ELSE (
 	GOTO PROJECT	
