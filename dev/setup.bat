@@ -11,5 +11,6 @@ if "%id%"=="" (
 :PROJECT
 mkdir ..\scripts\"%id%"
 xcopy /E /y template ..\scripts\"%id%"\
+del /f ..\scripts\"%id%"\README.txt
 
 pause
