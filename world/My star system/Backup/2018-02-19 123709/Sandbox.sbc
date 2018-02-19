@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>80442880000</ElapsedGameTime>
+  <ElapsedGameTime>73437920000</ElapsedGameTime>
   <SessionName>My star system</SessionName>
   <SpectatorPosition>
-    <Position x="1023444.5546291769" y="185931.1717572835" z="1656596.7261855491" />
-    <Forward x="0.86548233" y="-0.3599357" z="-0.348405868" />
-    <Up x="0.459578633" y="0.847255945" z="0.26635462" />
+    <Position x="1023444.554629177" y="185931.17175728324" z="1656596.7261855481" />
+    <Forward x="0.8654823" y="-0.359935671" z="-0.348405957" />
+    <Up x="0.459578663" y="0.847255945" z="0.26635462" />
     <Orientation>
-      <X>-0.0302348</X>
+      <X>-0.0302347913</X>
       <Y>-0.569985032</Y>
       <Z>-0.274695963</Z>
       <W>0.7737862</W>
@@ -20,11 +20,11 @@
   <ControlledObject>136343308788821939</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2018-02-19T14:39:35.7268578+01:00</LastSaveTime>
+  <LastSaveTime>2018-02-19T12:37:08.5239867+01:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
-    <SelectedSlot>3</SelectedSlot>
+    <SelectedSlot>2</SelectedSlot>
     <Slots>
       <Slot>
         <Index>0</Index>
@@ -313,14 +313,14 @@
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2018-02-19T14:27:15.0901263+01:00</LastLoginTime>
+      <LastLoginTime>2018-02-19T11:57:42.9950666+01:00</LastLoginTime>
     </MyObjectBuilder_Identity>
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855896</IdentityId>
       <DisplayName>The Great Tarantula</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2018-02-19T14:27:09.9144901+01:00</LastLoginTime>
+      <LastLoginTime>2018-02-19T11:57:36.4511997+01:00</LastLoginTime>
     </MyObjectBuilder_Identity>
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855897</IdentityId>
@@ -329,7 +329,7 @@
       <Model>Default_Astronaut</Model>
       <ColorMask x="0" y="-1" z="0" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2018-02-19T14:27:15.0289594+01:00</LastLoginTime>
+      <LastLoginTime>2018-02-19T11:57:42.7071737+01:00</LastLoginTime>
     </MyObjectBuilder_Identity>
   </Identities>
   <PreviousEnvironmentHostility>SAFE</PreviousEnvironmentHostility>
@@ -417,7 +417,7 @@
           <CharacterCameraData EntityId="0">
             <IsFirstPerson>true</IsFirstPerson>
             <Distance>2.5</Distance>
-            <HeadAngle x="4.50201225" y="0" />
+            <HeadAngle x="-77.8462143" y="0" />
           </CharacterCameraData>
           <EntityCameraData />
         </Value>
@@ -458,30 +458,6 @@
                 <A>255</A>
               </color>
               <entityId>0</entityId>
-            </Entry>
-            <Entry>
-              <name>Unknown signal 5</name>
-              <description />
-              <coords>
-                <X>1019508.2526341514</X>
-                <Y>185430.89772656525</Y>
-                <Z>1656138.3529578783</Z>
-              </coords>
-              <isFinal>true</isFinal>
-              <showOnHud>true</showOnHud>
-              <alwaysVisible>true</alwaysVisible>
-              <color>
-                <PackedValue>4281335725</PackedValue>
-                <X>173</X>
-                <Y>255</Y>
-                <Z>47</Z>
-                <R>173</R>
-                <G>255</G>
-                <B>47</B>
-                <A>255</A>
-              </color>
-              <entityId>142820215753593652</entityId>
-              <DisplayName>Unknown signal</DisplayName>
             </Entry>
           </Entries>
         </Value>
@@ -541,7 +517,7 @@
       <Mod />
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>111565</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>101983</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
       <Definition Type="MyObjectBuilder_CoordinateSystemDefinition" Subtype="CoordinateSystem" />
@@ -557,20 +533,15 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855897</PlayerId>
-          <Timer>1029</Timer>
-          <Active>false</Active>
+          <Timer>435</Timer>
+          <Active>true</Active>
           <Competetive>false</Competetive>
-          <ContainerId>142820215753593652</ContainerId>
+          <ContainerId>119770854297948455</ContainerId>
         </PlayerContainerData>
       </PlayerData>
       <GPSForRemoval />
-      <EntitiesForRemoval>
-        <MyEntityForRemoval>
-          <TimeLeft>609</TimeLeft>
-          <EntityId>140274266877314469</EntityId>
-        </MyEntityForRemoval>
-      </EntitiesForRemoval>
-      <ContainerIdSmall>6</ContainerIdSmall>
+      <EntitiesForRemoval />
+      <ContainerIdSmall>5</ContainerIdSmall>
       <ContainerIdLarge>1</ContainerIdLarge>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CutsceneSessionComponent">

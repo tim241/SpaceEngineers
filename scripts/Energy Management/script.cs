@@ -49,7 +49,6 @@ namespace IngameScript
 
         public void Main(string argument, UpdateType updateSource)
         {
-            
             // MODIFY
             // Minimum value for charging the batteries
             float solar_min = 0.03F;

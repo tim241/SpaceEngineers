@@ -10,7 +10,7 @@
       <MyObjectBuilder_GlobalEventBase>
         <SubtypeName>SpawnCargoShip</SubtypeName>
         <Enabled>true</Enabled>
-        <ActivationTimeMs>278551</ActivationTimeMs>
+        <ActivationTimeMs>420583</ActivationTimeMs>
       </MyObjectBuilder_GlobalEventBase>
     </Events>
   </SectorEvents>
@@ -615,7 +615,7 @@
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>0.206887</Amount>
+                      <Amount>0.2158</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                         <SubtypeName>Uranium</SubtypeName>
                       </PhysicalContent>
@@ -642,7 +642,7 @@
           <Inventory>
             <Items>
               <MyObjectBuilder_InventoryItem>
-                <Amount>0.206887</Amount>
+                <Amount>0.2158</Amount>
                 <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                   <SubtypeName>Uranium</SubtypeName>
                 </PhysicalContent>
@@ -849,7 +849,7 @@
                       <ItemId>17</ItemId>
                     </MyObjectBuilder_InventoryItem>
                   </Items>
-                  <nextItemId>24</nextItemId>
+                  <nextItemId>22</nextItemId>
                   <Volume>15.625</Volume>
                   <Mass>9223372036854.775807</Mass>
                   <MaxItemCount>2147483647</MaxItemCount>
@@ -912,7 +912,7 @@
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>8733.715284</Amount>
+                      <Amount>8764.892712</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Ore">
                         <SubtypeName>Ice</SubtypeName>
                       </PhysicalContent>
@@ -939,7 +939,7 @@
           <Inventory>
             <Items>
               <MyObjectBuilder_InventoryItem>
-                <Amount>8733.715284</Amount>
+                <Amount>8764.892712</Amount>
                 <PhysicalContent xsi:type="MyObjectBuilder_Ore">
                   <SubtypeName>Ice</SubtypeName>
                 </PhysicalContent>
@@ -1178,7 +1178,7 @@
                   <Inventories>
                     <MyObjectBuilder_InventoryBase xsi:type="MyObjectBuilder_Inventory">
                       <Items />
-                      <nextItemId>6</nextItemId>
+                      <nextItemId>4</nextItemId>
                       <Volume>7.5</Volume>
                       <Mass>9223372036854.775807</Mass>
                       <MaxItemCount>2147483647</MaxItemCount>
@@ -1189,14 +1189,14 @@
                     <MyObjectBuilder_InventoryBase xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>9223.391468</Amount>
+                          <Amount>7554.238108</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Iron</SubtypeName>
                           </PhysicalContent>
                           <ItemId>0</ItemId>
                         </MyObjectBuilder_InventoryItem>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>7345.925521</Amount>
+                          <Amount>6929.035246</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Stone</SubtypeName>
                           </PhysicalContent>
@@ -1224,7 +1224,7 @@
           <Enabled>true</Enabled>
           <InputInventory>
             <Items />
-            <nextItemId>6</nextItemId>
+            <nextItemId>4</nextItemId>
             <Volume>7.5</Volume>
             <Mass>9223372036854.775807</Mass>
             <MaxItemCount>2147483647</MaxItemCount>
@@ -1235,14 +1235,14 @@
           <OutputInventory>
             <Items>
               <MyObjectBuilder_InventoryItem>
-                <Amount>9223.391468</Amount>
+                <Amount>7554.238108</Amount>
                 <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                   <SubtypeName>Iron</SubtypeName>
                 </PhysicalContent>
                 <ItemId>0</ItemId>
               </MyObjectBuilder_InventoryItem>
               <MyObjectBuilder_InventoryItem>
-                <Amount>7345.925521</Amount>
+                <Amount>6929.035246</Amount>
                 <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                   <SubtypeName>Stone</SubtypeName>
                 </PhysicalContent>
@@ -1257,7 +1257,7 @@
             <InventoryFlags>CanSend</InventoryFlags>
             <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
           </OutputInventory>
-          <NextItemId>24</NextItemId>
+          <NextItemId>21</NextItemId>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
@@ -1924,7 +1924,7 @@
           <ShowInToolbarConfig>true</ShowInToolbarConfig>
           <ShowInInventory>true</ShowInInventory>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.79938</CurrentStoredPower>
+          <CurrentStoredPower>2.79976964</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -1999,14 +1999,14 @@
       <EntityId>136343308788821939</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="1023474.0837550533" y="185917.594422403" z="1656583.8842326098" />
-        <Forward x="0.7903909" y="-0.194128975" z="0.58103025" />
-        <Up x="-0.105842911" y="0.890922964" z="0.441648662" />
+        <Position x="1023721.8028374685" y="185665.06442553105" z="1657200.8522045189" />
+        <Forward x="-0.345637381" y="0.383487254" z="-0.85643" />
+        <Up x="-0.105843507" y="0.890922964" z="0.441648543" />
         <Orientation>
-          <X>-0.147239</X>
-          <Y>0.876832843</Y>
-          <Z>0.181271061</Z>
-          <W>-0.4202686</W>
+          <X>0.2150737</X>
+          <Y>0.159775823</Y>
+          <Z>0.09100454</Z>
+          <W>0.9591315</W>
         </Orientation>
       </PositionAndOrientation>
       <ComponentContainer>
@@ -2133,6 +2133,22 @@
                   </PhysicalContent>
                   <ItemId>8</ItemId>
                 </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>579.014272</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                    <SubtypeName>Stone</SubtypeName>
+                    <MaterialNameString>Stone</MaterialNameString>
+                  </PhysicalContent>
+                  <ItemId>16</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>2980.631</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                    <SubtypeName>Iron</SubtypeName>
+                    <MaterialNameString>Iron_01</MaterialNameString>
+                  </PhysicalContent>
+                  <ItemId>17</ItemId>
+                </MyObjectBuilder_InventoryItem>
               </Items>
               <nextItemId>18</nextItemId>
               <Volume>0.4</Volume>
@@ -2238,6 +2254,22 @@
             </PhysicalContent>
             <ItemId>8</ItemId>
           </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>579.014272</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+              <SubtypeName>Stone</SubtypeName>
+              <MaterialNameString>Stone</MaterialNameString>
+            </PhysicalContent>
+            <ItemId>16</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>2980.631</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+              <SubtypeName>Iron</SubtypeName>
+              <MaterialNameString>Iron_01</MaterialNameString>
+            </PhysicalContent>
+            <ItemId>17</ItemId>
+          </MyObjectBuilder_InventoryItem>
         </Items>
         <nextItemId>18</nextItemId>
         <Volume>0.4</Volume>
@@ -2252,14 +2284,14 @@
         <EntityId>112614936696563924</EntityId>
         <PersistentFlags>CastShadows InScene</PersistentFlags>
         <PositionAndOrientation>
-          <Position x="1023473.973101539" y="185918.68569908093" z="1656584.7834177758" />
-          <Forward x="0.8540782" y="0.0196339227" z="0.5197715" />
-          <Up x="-0.147309527" y="0.9675067" z="0.205509886" />
+          <Position x="1023721.7009662993" y="185666.04838618418" z="1657201.103105298" />
+          <Forward x="-0.847413063" y="-0.148059115" z="-0.5098749" />
+          <Up x="-0.150419712" y="0.9879334" z="-0.0368867" />
           <Orientation>
-            <X>-0.115563877</X>
-            <Y>0.8640203</Y>
-            <Z>0.05378213</Z>
-            <W>-0.487053782</W>
+            <X>-0.0533267073</X>
+            <Y>0.4921577</Y>
+            <Z>0.0564725362</Z>
+            <W>0.867033958</W>
           </Orientation>
         </PositionAndOrientation>
         <ComponentContainer>
@@ -2274,31 +2306,32 @@
         </ComponentContainer>
       </HandWeapon>
       <Battery>
-        <CurrentCapacity>9.99537E-06</CurrentCapacity>
+        <CurrentCapacity>9.46299E-06</CurrentCapacity>
       </Battery>
       <LightEnabled>false</LightEnabled>
       <UsingLadder xsi:nil="true" />
-      <HeadAngle x="-4.502001" y="0" />
-      <LinearVelocity x="0" y="0" z="0" />
+      <HeadAngle x="0" y="0" />
+      <LinearVelocity x="-3.34440231" y="2.999383" z="-8.934128" />
       <AutoenableJetpackDelay>0</AutoenableJetpackDelay>
       <JetpackEnabled>false</JetpackEnabled>
       <ColorMaskHSV x="0" y="-1" z="0" />
       <LootingCounter>0</LootingCounter>
       <DisplayName>Bunny</DisplayName>
-      <IsInFirstPersonView>true</IsInFirstPersonView>
+      <IsInFirstPersonView>false</IsInFirstPersonView>
       <EnableBroadcasting>true</EnableBroadcasting>
-      <OxygenLevel>0.998950541</OxygenLevel>
+      <OxygenLevel>0.8950541</OxygenLevel>
       <EnvironmentOxygenLevel>0</EnvironmentOxygenLevel>
       <StoredGases>
         <StoredGas>
           <Id Type="MyObjectBuilder_GasProperties" Subtype="Hydrogen" />
-          <FillLevel>1</FillLevel>
+          <FillLevel>0.126179814</FillLevel>
         </StoredGas>
         <StoredGas>
           <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
-          <FillLevel>0.998950541</FillLevel>
+          <FillLevel>0.8950541</FillLevel>
         </StoredGas>
       </StoredGases>
+      <MovementState>Sprinting</MovementState>
       <EnabledComponents>
         <string>RagdollComponent</string>
         <string>InventorySpawnComponent</string>
@@ -2678,7 +2711,7 @@
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>0.099087</Amount>
+                      <Amount>0.099173</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                         <SubtypeName>Uranium</SubtypeName>
                       </PhysicalContent>
@@ -2705,7 +2738,7 @@
           <Inventory>
             <Items>
               <MyObjectBuilder_InventoryItem>
-                <Amount>0.099087</Amount>
+                <Amount>0.099173</Amount>
                 <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                   <SubtypeName>Uranium</SubtypeName>
                 </PhysicalContent>
